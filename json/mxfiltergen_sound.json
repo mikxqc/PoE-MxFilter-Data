@@ -1,0 +1,19 @@
+{
+	"sound": [
+	"mx_unique.mp3",
+	"mx_divcard.mp3",
+	"mx_recipe.mp3",
+	"mx_map.mp3",
+	"mx_map_shaped.mp3",
+	"mx_highvalue.mp3",
+	"mx_chase.mp3",
+	"mx_currency_t1.mp3",
+	"mx_currency_t2.mp3",
+	"mx_scroll.mp3",
+	"mx_splinter.mp3",
+	"mx_influenced.mp3",
+	"mx_flask.mp3",
+	"mx_skillgem.mp3",
+	"mx_tier.mp3"
+	]
+}
