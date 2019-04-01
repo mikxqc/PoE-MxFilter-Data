@@ -5,6 +5,6 @@
   "minimumValue": 20,
   "chancingMinValue": 50,
   "verbose": false,
-  "strict": false,
+  "strict": true,
   "section": ""
 }
