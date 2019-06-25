@@ -1,6 +1,6 @@
 {
   "git": "https://raw.githubusercontent.com/mikxqc",
-  "api": "http://poe.ninja/api/Data/",
+  "api": "https://poe.ninja/api/Data/",
   "confidence": 5,
   "minimumValue": 20,
   "chancingMinValue": 50,
