@@ -1,10 +1,8 @@
 {
   "git": "https://raw.githubusercontent.com/mikxqc",
-  "api": "https://poe.ninja/api/Data/",
-  "confidence": 5,
+  "api": "https://api.poe.watch/",
   "minimumValue": 20,
-  "chancingMinValue": 50,
   "verbose": false,
-  "strict": false,
-  "section": ""
+  "ssf": false,
+  "section": "Tiers (DATA)"
 }
