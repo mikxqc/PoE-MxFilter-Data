@@ -1,6 +1,4 @@
 {
-  "git": "https://raw.githubusercontent.com/mikxqc",
-  "api": "https://api.poe.watch/",
   "minimumValue": 20,
   "verbose": false,
   "ssf": false,
