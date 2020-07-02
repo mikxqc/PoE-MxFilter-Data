@@ -1,6 +1,7 @@
 {
-  "minimumValue": 20,
-  "verbose": false,
+  "uniqueValue": 20,
+  "fossilValue": 10,
+  "cardValue": 10,
   "ssf": false,
-  "section": "Tiers (DATA)"
+  "section": ""
 }
